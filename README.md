@@ -1,7 +1,7 @@
-# Front_End_Project-SportsPro-Technical-Support
+# Front_End_Project-SportsPro-Technical-Support (Group Project)
 CS 380
 
-code I contributed is in folder manage_customers
+code I contributed: SelectCustomerPage.php; UpdateCustomerPage; ProcesUpdateCustomer.php
 
 
 # #  The design of the SportsPro Technical Support application
